@@ -8,7 +8,8 @@ Neste curso aprendi a unir a popularidade das APIs com a popularidade do JavaScr
 # Conteúdo Programático
 
 <ul>
-*npm init e instalação dos pacotes
+  <li>npm init e instalação dos pacotes</li>
+
 *Criando um servidor Web
 -Normalizando a porta
 -Gerenciando Erros do Servidor
@@ -44,4 +45,4 @@ Neste curso aprendi a unir a popularidade das APIs com a popularidade do JavaScr
 -Autorização
 -Habilitando CORS
 -Publicando a API
-<ul/>
+</ul>
